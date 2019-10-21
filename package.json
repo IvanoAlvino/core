@@ -7,7 +7,8 @@
     "commit": "git-cz",
     "lint": "ng lint",
     "start": "ng serve",
-    "test": "ng test"
+    "test": "ng test",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "@angular/common": "^7.0.0",
